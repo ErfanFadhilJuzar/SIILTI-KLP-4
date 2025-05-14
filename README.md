@@ -2,7 +2,7 @@
 
 Langkah-langkah mendownload:
 1. Buka git bash di folder yang mau di copykan
-- git clone https://github.com/sultanichiro/SIILTI-KLP-4
+- git clone https://github.com/ErfanFadhilJuzar/SIILTI-KLP-4
 
 3. Masuk ke dalam folder project:
 - cd SIILTI-KLP-4
